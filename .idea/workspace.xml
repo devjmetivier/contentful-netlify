@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da8c816e-31df-40fc-b430-ab02a8e62ff7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/dmetivier-blog.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/eslintPlugin.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -66,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -315,7 +306,7 @@
       <workItem from="1520472854556" duration="51000" />
       <workItem from="1520472925936" duration="5727000" />
       <workItem from="1520559852405" duration="1977000" />
-      <workItem from="1520717591767" duration="1198000" />
+      <workItem from="1520717591767" duration="1302000" />
     </task>
     <task id="LOCAL-00001" summary="added proper gatsby prefix">
       <created>1520565625782</created>
@@ -345,11 +336,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520718889303</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ignore and delete .idea">
+      <created>1520718991924</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1520718991924</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25195000" />
+    <option name="totallyTimeSpent" value="25299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2560" y="22" width="1920" height="1058" extended-state="6" />
@@ -389,7 +387,8 @@
     <MESSAGE value="changed post" />
     <MESSAGE value="forgot to take out gatsby prefix" />
     <MESSAGE value="adds netlify-cms" />
-    <option name="LAST_COMMIT_MESSAGE" value="adds netlify-cms" />
+    <MESSAGE value="ignore and delete .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="ignore and delete .idea" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -738,7 +737,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding />
         </state>
       </provider>
