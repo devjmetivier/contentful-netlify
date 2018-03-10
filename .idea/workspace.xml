@@ -47,8 +47,8 @@
       <file leaf-file-name="config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/admin/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+            <state relative-caret-position="315">
+              <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -297,7 +297,7 @@
       <workItem from="1520472854556" duration="51000" />
       <workItem from="1520472925936" duration="5727000" />
       <workItem from="1520559852405" duration="1977000" />
-      <workItem from="1520717591767" duration="1491000" />
+      <workItem from="1520717591767" duration="2183000" />
     </task>
     <task id="LOCAL-00001" summary="added proper gatsby prefix">
       <created>1520565625782</created>
@@ -341,11 +341,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520719055147</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="configures netlify cms backend">
+      <created>1520719249792</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1520719249792</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25488000" />
+    <option name="totallyTimeSpent" value="26180000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2560" y="22" width="1920" height="1058" extended-state="6" />
@@ -386,7 +393,8 @@
     <MESSAGE value="forgot to take out gatsby prefix" />
     <MESSAGE value="adds netlify-cms" />
     <MESSAGE value="ignore and delete .idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="ignore and delete .idea" />
+    <MESSAGE value="configures netlify cms backend" />
+    <option name="LAST_COMMIT_MESSAGE" value="configures netlify cms backend" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -734,8 +742,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/admin/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        <state relative-caret-position="315">
+          <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
           <folding />
         </state>
       </provider>
