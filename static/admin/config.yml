@@ -3,6 +3,7 @@ backend:
     repo: dmetivier/gatsbynetlify
 
 media_folder: static/assets
+public_folder: /assets
 
 collections:
     - name: post
