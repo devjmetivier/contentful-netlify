@@ -4,10 +4,10 @@ import Link from 'gatsby-link';
 
 const PostListing = ({ post }) => (
     <article>
-        <h3><Link to={post.fields.slug}>{post.frontmatter.title}</Link></h3>
-        <span>{post.frontmatter.date}</span>
+        <h3><Link to={post.slug}>{post.title}</Link></h3>
+        <span>{post.createdAt}</span>
         <p>
-            {post.excerpt}
+            {post.body.childMarkdownRemark.excerpt}
         </p>
     </article>
 );
